@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reminders</string>
+    <string name="message">edit</string>
+    <string name="message2">delete</string>
+</resources>
